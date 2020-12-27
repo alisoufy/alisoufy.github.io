@@ -1,0 +1,39 @@
+/* For products control */
+.u-product .add_to_cart_button.added::after,
+.u-products .add_to_cart_button.added::after {
+    font-family: WooCommerce;
+    content: "\e017";
+    margin-left: .53em;
+    vertical-align: bottom;
+    position: absolute;
+}
+
+.u-product .add_to_cart_button.added,
+.u-products .add_to_cart_button.added {
+    padding-right: 2.618em;
+}
+
+.u-product .add_to_cart_button.loading::after,
+.u-products .add_to_cart_button.loading::after {
+    font-family: WooCommerce;
+    content: "\e01c";
+    vertical-align: top;
+    font-weight: 400;
+    position: absolute;
+    top: .618em;
+    right: 1em;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+.u-product a.added_to_cart,
+.u-products a.added_to_cart {
+    padding-top: .5em;
+    text-align: center;
+}
+
+.u-product a.button.loading,
+.u-products a.button.loading {
+    opacity: .25;
+    padding-right: 2.618em;
+}

@@ -1,0 +1,304 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nicepage\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-09 16:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: options.php:125
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: importer/class-np-import-notice.php:14
+msgid ""
+"<strong>There is content included to Nicepage plugin.</strong><br>Would you "
+"like to install it?"
+msgstr ""
+
+#: importer/class-np-import-notice.php:51
+msgid "An error occurred while importing."
+msgstr ""
+
+#: includes/class-np-settings.php:33
+msgid "Auto Responsive"
+msgstr ""
+
+#: includes/class-np-settings.php:54
+msgid "Autosave"
+msgstr ""
+
+#: includes/class-np-settings.php:59
+msgid "Autosave changes"
+msgstr ""
+
+#: importer/import.php:15
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: importer/import.php:25
+msgid ""
+"Choose a (.zip) file from your computer, then click Upload file and import."
+msgstr ""
+
+#: editor/admin.php:119
+msgid ""
+"Click 'Edit' with Nicepage' button and then click 'Publish' to make them "
+"visible on your website."
+msgstr ""
+
+#: editor/admin.php:164
+msgid "Colors"
+msgstr ""
+
+#: editor/admin.php:189
+msgid "Colors and Fonts"
+msgstr ""
+
+#: editor/admin.php:792 includes/class-nicepage.php:389
+#, php-format
+msgid "Comments (%d)"
+msgstr ""
+
+#: importer/wizard.php:66
+msgid ""
+"Congratulations! The Nicepage plugin has been activated and your website is "
+"ready."
+msgstr ""
+
+#: importer/wizard.php:46
+msgid "Content has already been imported. Please skip this step"
+msgstr ""
+
+#: importer/class-np-import-notice.php:50
+msgid "Content was successfully imported."
+msgstr ""
+
+#: includes/class-np-settings.php:15
+msgid "Create new page with Nicepage editor"
+msgstr ""
+
+#: includes/class-np-settings.php:44
+msgid "Default Page Template"
+msgstr ""
+
+#. Description of the plugin
+msgid "Design websites with any images and texts in seconds!"
+msgstr ""
+
+#: editor/admin.php:116 editor/admin.php:1517
+msgid "Edit with Nicepage"
+msgstr ""
+
+#: includes/class-np-forms.php:199
+msgid "feedback"
+msgstr ""
+
+#: editor/admin.php:165
+msgid "Fonts"
+msgstr ""
+
+#: editor/admin.php:170
+msgid "Footer"
+msgstr ""
+
+#: includes/class-np-forms.php:170
+#, php-format
+msgid "Footer Nicepage Form: %s"
+msgstr ""
+
+#: options.php:112
+msgid "Form"
+msgstr ""
+
+#: options.php:112
+msgid "Forms"
+msgstr ""
+
+#: editor/admin.php:168
+msgid "Header"
+msgstr ""
+
+#: includes/class-np-settings.php:39
+msgid "Header and Footer"
+msgstr ""
+
+#: includes/class-np-forms.php:168
+#, php-format
+msgid "Header Nicepage Form: %s"
+msgstr ""
+
+#: editor/admin.php:167
+msgid "Headings and Text"
+msgstr ""
+
+#: importer/class-np-import-notice.php:19
+msgid "Hide notice"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://nicepage.com/"
+msgstr ""
+
+#: editor/admin.php:134 editor/admin.php:163 importer/import.php:8
+msgid "Import"
+msgstr ""
+
+#: importer/wizard.php:93 importer/wizard.php:98
+msgid "Import Content"
+msgstr ""
+
+#: importer/class-np-import-notice.php:17
+msgid "Import content"
+msgstr ""
+
+#: includes/class-np-settings.php:19
+msgid "jQuery"
+msgstr ""
+
+#: includes/controls/login/login.php:7
+msgid "Log in"
+msgstr ""
+
+#: includes/controls/login/login.php:10
+msgid "Log out"
+msgstr ""
+
+#: editor/admin.php:169
+msgid "Menu Style"
+msgstr ""
+
+#: editor/admin.php:162
+msgid "New Page"
+msgstr ""
+
+#. Name of the plugin
+#: editor/admin.php:131 editor/admin.php:132 editor/admin.php:132
+#: editor/admin.php:188
+msgid "Nicepage"
+msgstr ""
+
+#: includes/class-np-forms.php:172
+#, php-format
+msgid "Nicepage Form: %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nicepage https://www.nicepage.com"
+msgstr ""
+
+#: options.php:73
+msgid "Nicepage Options"
+msgstr ""
+
+#: importer/wizard.php:51
+msgid ""
+"Nicepage plugin has Pages, Images, Menu, Header, and Footer. </br></br>Do "
+"you want to import the Content?"
+msgstr ""
+
+#: includes/class-np-settings.php:104
+msgid "Nicepage Settings"
+msgstr ""
+
+#: editor/admin.php:135 editor/admin.php:171
+msgid "Plugin Wizard"
+msgstr ""
+
+#: editor/admin.php:787 includes/class-nicepage.php:344
+msgid "Read more"
+msgstr ""
+
+#: importer/wizard.php:99
+msgid "Replace previously imported Content"
+msgstr ""
+
+#: importer/class-np-import-notice.php:18
+msgid "Replace previously imported content"
+msgstr ""
+
+#: includes/class-np-settings.php:198
+msgid "Reset to Default"
+msgstr ""
+
+#: includes/class-np-settings.php:28
+msgid "Responsive"
+msgstr ""
+
+#: includes/class-np-settings.php:197
+msgid "Save Changes"
+msgstr ""
+
+#: editor/admin.php:136 editor/admin.php:161
+msgid "Settings"
+msgstr ""
+
+#: includes/class-np-settings.php:127
+msgid "Settings restored."
+msgstr ""
+
+#: includes/class-np-settings.php:121
+msgid "Settings saved."
+msgstr ""
+
+#: importer/wizard.php:165
+msgid "Skip"
+msgstr ""
+
+#: editor/admin.php:119
+msgid "The page has unpublished changes."
+msgstr ""
+
+#: editor/admin.php:112 editor/admin.php:520 editor/admin.php:1515
+msgid "Turn to Nicepage"
+msgstr ""
+
+#: editor/admin.php:166
+msgid "Typography"
+msgstr ""
+
+#: importer/import.php:36
+msgid "Upload file and import"
+msgstr ""
+
+#: importer/import.php:22
+msgid ""
+"Upload your (.zip) file and we&#8217;ll import the pages and images into "
+"this site."
+msgstr ""
+
+#: includes/class-np-settings.php:24
+msgid "Use jQuery from plugin"
+msgstr ""
+
+#: editor/admin.php:773 editor/admin.php:778 includes/class-nicepage.php:380
+#: includes/class-nicepage.php:409
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: includes/class-np-settings.php:133
+#, php-format
+msgid "Used when <strong>\"%s\"</strong> is enabled"
+msgstr ""
+
+#: includes/class-nicepage.php:361
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: importer/wizard.php:84
+msgid "Your website is ready!"
+msgstr ""
